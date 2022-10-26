@@ -3,3 +3,4 @@
 /bazel-out
 /bazel-testlogs
 .DS_Store
+/.vscode
